@@ -1,0 +1,2 @@
+ ./LDAmodel/conserv_10.model c_v: 0.37639195252967095 u_mass: -1.5296516686724588
+ ./LDAmodel/conserv_25.model c_v: 0.37130363075637157 u_mass: -1.7807449941165883

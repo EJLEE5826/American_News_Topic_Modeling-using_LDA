@@ -1,2 +1,5 @@
  ./LDAmodel/conserv_10.model c_v: 0.37639195252967095 u_mass: -1.5296516686724588
  ./LDAmodel/conserv_25.model c_v: 0.37130363075637157 u_mass: -1.7807449941165883
+ ./LDAmodel/liberal_10.model c_v: 0.371882197721187 u_mass: -2.6883592150548656
+ ./LDAmodel/liberal_25.model c_v: 0.39168209779689733 u_mass: -3.744690696968141
+ ./LDAmodel/liberal_25.model c_v: 0.39168209779689733 u_mass: -3.744690696968141

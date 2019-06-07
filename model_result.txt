@@ -1,0 +1,24 @@
+con_result.txt 10
+Topic: 0 Word: 0.008*"caddel" + 0.003*"wfb" + 0.002*"ret" + 0.001*"russert" + 0.001*"bannon" + 0.001*"uac" + 0.001*"gianfort" + 0.001*"idomeni" + 0.001*"attkisson" + 0.001*"upi"
+Topic: 1 Word: 0.002*"catsimatidi" + 0.002*"beacon" + 0.002*"pavon" + 0.001*"delingpol" + 0.001*"period" + 0.001*"15" + 0.001*"bullsht" + 0.001*"est" + 0.001*"golvach" + 0.001*"fking"
+Topic: 2 Word: 0.004*"grabien" + 0.003*"leftw" + 0.002*"nomine" + 0.002*"cruz" + 0.002*"founder" + 0.002*"amazon" + 0.001*"regneri" + 0.001*"clift" + 0.001*"runup" + 0.001*"raggi"
+Topic: 3 Word: 0.003*"via" + 0.002*"strassel" + 0.001*"nuevo" + 0.001*"202" + 0.001*"espn2" + 0.001*"piec" + 0.001*"aul" + 0.001*"regneri" + 0.001*"pssi" + 0.001*"joul"
+Topic: 4 Word: 0.002*"joshua" + 0.002*"fcking" + 0.002*"hodgkinson" + 0.002*"oo" + 0.002*"nbpc" + 0.001*"tamaulipa" + 0.001*"imwithh" + 0.001*"ktla" + 0.001*"kxan" + 0.001*"proud"
+Topic: 5 Word: 0.003*"regneri" + 0.003*"obamatrad" + 0.002*"ffl" + 0.002*"scribd" + 0.002*"scoop" + 0.002*"león" + 0.002*"nuevo" + 0.002*"varney" + 0.001*"newsbust" + 0.001*"deleg"
+Topic: 6 Word: 0.010*"caddel" + 0.005*"interview" + 0.002*"pinkett" + 0.002*"reynosa" + 0.002*"tamaulipa" + 0.002*"gainor" + 0.002*"grabien" + 0.002*"gutfeld" + 0.002*"hidinghillari" + 0.001*"tp"
+Topic: 7 Word: 0.012*"regneri" + 0.002*"amazon" + 0.002*"desanti" + 0.002*"abedi" + 0.001*"rogan" + 0.001*"7pm" + 0.001*"reid" + 0.001*"tamaulipa" + 0.001*"deplor" + 0.001*"fgm"
+Topic: 8 Word: 0.005*"grabien" + 0.004*"newstalk" + 0.003*"thr" + 0.002*"regneri" + 0.002*"amazon" + 0.002*"primari" + 0.002*"siriusxm" + 0.002*"cdata" + 0.002*"s0p" + 0.002*"getelementsbytagnam"
+Topic: 9 Word: 0.009*"amazon" + 0.008*"regneri" + 0.003*"mediait" + 0.003*"steinl" + 0.002*"125" + 0.002*"fnc" + 0.001*"banzhaf" + 0.001*"abc" + 0.001*"sc" + 0.001*"uclick"
+
+lib_result.txt 10
+Topic: 0 Word: 0.002*"godfrey" + 0.001*"debatenight" + 0.001*"bagley" + 0.001*"trai" + 0.001*"approv" + 0.001*"f8" + 0.001*"holtzmann" + 0.001*"brexit" + 0.001*"drugmak" + 0.001*"increas"
+Topic: 1 Word: 0.002*"norwood" + 0.001*"csr" + 0.001*"gl" + 0.001*"zakarian" + 0.001*"iea" + 0.001*"certif" + 0.001*"timeshar" + 0.001*"offici" + 0.001*"navient" + 0.001*"grossmann"
+Topic: 2 Word: 0.001*"teich" + 0.001*"recent" + 0.001*"vax" + 0.001*"dreazen" + 0.001*"superrich" + 0.001*"tttthe" + 0.001*"lundberg" + 0.001*"foreknowledg" + 0.001*"ln" + 0.001*"norwood"
+Topic: 3 Word: 0.005*"voxcar" + 0.001*"tttthi" + 0.001*"wallet" + 0.001*"obamacar" + 0.001*"farka" + 0.001*"hemenway" + 0.001*"integr" + 0.001*"moder" + 0.001*"kirkegaard" + 0.001*"kapor"
+Topic: 4 Word: 0.016*"norwood" + 0.007*"godfrey" + 0.003*"daili" + 0.002*"pic" + 0.001*"defens" + 0.001*"via" + 0.001*"grossmann" + 0.001*"bradd" + 0.001*"jaffi" + 0.001*"erd"
+Topic: 5 Word: 0.001*"norwood" + 0.001*"gerago" + 0.001*"amptp" + 0.001*"17" + 0.001*"det" + 0.001*"gottwald" + 0.001*"chocolat" + 0.001*"lgbti" + 0.001*"huder" + 0.001*"tbh"
+Topic: 6 Word: 0.001*"incarcer" + 0.001*"u200aand" + 0.001*"tim" + 0.001*"avaler" + 0.001*"three" + 0.001*"four" + 0.001*"decilit" + 0.001*"mischa" + 0.001*"alsup" + 0.001*"mcgehe"
+Topic: 7 Word: 0.001*"interview" + 0.001*"dcf" + 0.001*"abnorm" + 0.001*"unpersuas" + 0.001*"tttthi" + 0.001*"dollar" + 0.001*"full" + 0.001*"harass" + 0.001*"ehrlichman" + 0.001*"belluz"
+Topic: 8 Word: 0.001*"norwood" + 0.001*"obama" + 0.001*"cpsc" + 0.001*"godfrey" + 0.001*"voxcar" + 0.001*"earlier" + 0.001*"allo" + 0.001*"proport" + 0.001*"doma" + 0.001*"ddt"
+Topic: 9 Word: 0.001*"brief" + 0.001*"biersack" + 0.001*"u200bth" + 0.001*"belluz" + 0.001*"ttt" + 0.001*"aramco" + 0.001*"cadman" + 0.001*"u200b" + 0.001*"u2009u2009" + 0.001*"isd"
+

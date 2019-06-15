@@ -4,6 +4,8 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
 - liberal (Atlantic, Buzzfeed News, Vox)  
 - conservative (Breitbart, New York Post, National Review, Fox News)  
 
+Download Dataset: https://www.kaggle.com/snapcrack/all-the-news
+
 <br>
 
 ## Development environment
@@ -52,4 +54,5 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
     $ conda install nltk  
     $ conda install -c anaconda matplotlib
 
-
+- `Preprocessing.ipynb` Preprocess articles(with `Preprocessing/`)  
+- `LDA.ipynb` make LDA models  

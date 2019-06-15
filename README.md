@@ -6,6 +6,13 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
 
 <br>
 
+## Development environment
+
+- Language: Anaconda Python 3.6  
+- IDE: Jupyter Notebook  
+
+<br>
+
 ## How to Process  
 
 1. Preprocessing  
@@ -39,15 +46,10 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
 
 ## Manual  
 
-- Language: Anaconda Python 3.6  
-- IDE: Jupyter Notebook  
+  Run in your terminal (for conda environments):  
 
-To make LDA models, Gensim must be installed.  
+    $ conda install -c conda-forge gensim  
+    $ conda install nltk  
+    $ conda install -c anaconda matplotlib
 
-  Run in your terminal (recommended):  
 
-    $ pip install --upgrade gensim
-
-  or, alternatively for conda environments:  
-
-    $ conda install -c conda-forge gensim

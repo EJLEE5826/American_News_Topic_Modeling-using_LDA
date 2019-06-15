@@ -25,13 +25,21 @@ Download Dataset: https://www.kaggle.com/snapcrack/all-the-news
    
    Result of preprocessing: `saved_conserv.txt` `saved_liberal.txt`  
 
+<br>
+
 2. Topic Modeling - using LDA  
    - Make Bag of Words
    - TF-IDF vectorization
    - Trainign LDA model
 
     We use Gensim for LDA.  
-    Result of Topic Modeling: `final_LDAmodel/*`
+    Result of Topic Modeling: `final_LDAmodel/*`  
+    
+    reference:  
+    https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24  
+    https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/  
+
+<br>
 
 3. Evaluate  
 

@@ -1,8 +1,10 @@
-# American_News_Topic_Modeling-using_LDA
+# American_News_Topic_Modeling-using_LDA  
 
-Analysis the Difference in Usual Vocabulary between American Press with Different Political Tendencies
-- liberal (Atlantic, Buzzfeed News, Vox)
-- conservative (Breitbart, New York Post, National Review, Fox News)
+Analysis the Difference in Usual Vocabulary between American Press with Different Political Tendencies  
+- liberal (Atlantic, Buzzfeed News, Vox)  
+- conservative (Breitbart, New York Post, National Review, Fox News)  
+
+<br>
 
 ## How to Process  
 
@@ -32,3 +34,20 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
     
     You can see here an analysis of our model results.  
     `final report-American_News_Topic_Modeling-using_LDA.docx`  
+
+<br>
+
+## Manual  
+
+- Language: Anaconda Python 3.6  
+- IDE: Jupyter Notebook  
+
+To make LDA models, Gensim must be installed.  
+
+  Run in your terminal (recommended):  
+
+    $ pip install --upgrade gensim
+
+  or, alternatively for conda environments:  
+
+    $ conda install -c conda-forge gensim

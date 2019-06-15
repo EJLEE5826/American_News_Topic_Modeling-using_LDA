@@ -1,0 +1,9 @@
+./LDAmodel/conserv_10.model c_v: 0.3509938957680757 u_mass: -1.573005677003584
+./LDAmodel/conserv_15.model c_v: 0.3246293240626572 u_mass: -1.7395928294104275
+./LDAmodel/conserv_20.model c_v: 0.34184506679183146 u_mass: -2.0609502763643315
+./LDAmodel/conserv_25.model c_v: 0.3384737322443271 u_mass: -2.371873544360118
+
+./LDAmodel/liberal_10.model c_v: 0.37184284208077545 u_mass: -2.586750651948912
+./LDAmodel/liberal_15.model c_v: 0.3223264719349464 u_mass: -2.1499060970485635 
+./LDAmodel/liberal_20.model c_v: 0.394393130112143 u_mass: -2.921190017562714
+./LDAmodel/liberal_25.model c_v: 0.4091978550008671 u_mass: -4.387988520431288

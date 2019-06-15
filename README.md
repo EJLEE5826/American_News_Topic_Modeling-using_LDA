@@ -11,6 +11,8 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
    - Text operation  
    - Delete nonsense words-journalist, journalist name, and SNS account information  
    - Remove redundant words from both sides  
+   
+   Result of preprocessing: `saved_conserv.txt` `saved_liberal.txt`  
 
 2. Topic Modeling - using LDA  
    - Make Bag of Words
@@ -18,6 +20,7 @@ Analysis the Difference in Usual Vocabulary between American Press with Differen
    - Trainign LDA model
 
     We use Gensim for LDA.  
+    Result of Topic Modeling: `final_LDAmodel/*`
 
 3. Evaluate  
 
